@@ -1,0 +1,1 @@
+multi-scale splatter image
