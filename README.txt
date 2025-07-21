@@ -10,8 +10,7 @@ To run with pre-trained models:
    data_category to either "cars" or "chairs".
 2. Under "Directories & downloading data", set GDRIVE_ENABLED to False.
 3. Merge the contents of the "local" folders from "Pretrained_chairs.zip" and
-   "Pretrained_cars.zip" to the path "<files>/local" in Colab storage. (separated
-   due to Moodle file size constraints).
+   "Pretrained_cars.zip" to the path "<files>/local" in Colab storage.
 4. Run all cells one by one up to the end of the "Setup" subsection of "Training".
 5. There are several headings that look like "Restore State ..." and
    include the model name in the heading.  To load a model, run the first
